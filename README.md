@@ -1,1 +1,2 @@
-# my_fav_tutorials
+# description
+# explanation of the project architecture
